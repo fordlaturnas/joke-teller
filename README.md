@@ -1,2 +1,1 @@
 # joke-teller.
-2
