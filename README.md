@@ -1,3 +1,3 @@
 # joke-teller.
 
-23
+2
